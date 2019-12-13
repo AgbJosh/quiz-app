@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question_one_text">The Udacity Android Basics Nanodegree does not require learners to have any programming experience.</string>
+    <string name="question_two_text">How many projects are learners supposed to complete under the ABND program?</string>
+    <string name="question_three_text">The layout of an android app is defined with ..........</string>
+    <string name="question_four_text">A single focused thing a user can do in an android app is known as .........</string>
+    <string name="question_five_text">Select which view(s) can be used in an android app.</string>
+    <string name="question_six_text">What is the name given to the default folder where images are normally stored in Android Studio?</string>
+    <string name="question_number_one">1.</string>
+    <string name="question_number_two">2.</string>
+    <string name="question_number_three">3.</string>
+    <string name="question_number_four">4.</string>
+    <string name="question_number_five">5.</string>
+    <string name="question_number_six">6.</string>
+    <string name="udacity_logo">Udacity Logo</string>
+    <string name="questionOne_optionOne">True</string>
+    <string name="questionOne_optionTwo">False</string>
+    <string name="questionTwo_optionOne">4</string>
+    <string name="questionTwo_optionTwo">7</string>
+    <string name="questionTwo_optionThree">6</string>
+    <string name="questionThree_optionOne">XML</string>
+    <string name="questionThree_optionTwo">CSS</string>
+    <string name="questionThree_optionThree">HTML</string>
+    <string name="questionFour_optionOne">Action</string>
+    <string name="questionFour_optionTwo">Activity</string>
+    <string name="questionFour_optionThree">AppCompat</string>
+    <string name="questionFive_optionOne">TextView</string>
+    <string name="questionFive_optionTwo">LineView</string>
+    <string name="questionFive_optionThree">ImageView</string>
+    <string name="questionSix_optionOne">True</string>
+    <string name="questionSix_optionTwo">False</string>
+    <string name="enter_name">Enter Name(Optional)</string>
+    <string name="submit">SUBMIT</string>
+</resources>
